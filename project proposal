@@ -1,1 +1,8 @@
+ C LANGUAGE 1ST SEMESTER CCP PROJECT.
+INSTRUCTOR: SIR ABDULLAH
+PROJECT TITLE: PORT INSPECTOR
+GROUP MEMBERS : RUSHDA ABBASI, RAMLA KAMRAN
+OBJECTIVE: 
+To design and implement a simple Port Scanner in C that detects open or closed network ports on a given IP address or hostname using basic socket programming.
+
 
